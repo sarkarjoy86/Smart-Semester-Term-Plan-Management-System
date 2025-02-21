@@ -1,2 +1,16 @@
-# Smart-Semester-Term-Plan-Management-System
-Smart Semester is an android app that helps university students manage their academic life. It provides access to faculty details, notices, course materials, and real-time notifications. With Firebase Authentication and data synchronization, the app keeps students updated on important academic updates.
+# smartsemester
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
