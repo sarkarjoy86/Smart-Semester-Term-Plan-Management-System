@@ -5,11 +5,21 @@
 
 ## Features
 
-- **Student Registration & Login**: Secure login and registration via Firebase Authentication, ensuring students’ data is protected.
-- **Faculty Information**: View faculty member details such as name, position, and contact information for easy communication with professors.
-- **Notices Section**: Stay informed about important updates with categorized notices – university-wide and class-specific.
-- **Course Materials**: Access to resources such as Google Drive links, Google Classroom, and WhatsApp groups for each enrolled course.
-- **Push Notifications**: Real-time updates through Firebase Cloud Messaging to ensure students receive timely notifications about important events and deadlines.
+Student Registration & Login: Secure login and registration via Firebase Authentication, ensuring students' data is protected.
+Faculty Information: View faculty member details such as name, position, and contact information for easy communication with professors.
+Notices Section: Stay informed about important updates with categorized notices – university-wide and class-specific.
+Course Materials: Access to resources such as Google Drive links, Google Classroom, and WhatsApp groups for each enrolled course.
+Push Notifications: Real-time updates through Firebase Cloud Messaging to ensure students receive timely notifications about important events and deadlines.
+Questions Bank: Access previous year’s exam questions for respective courses, helping students prepare better for exams.
+PDF Books: Download necessary textbooks for courses throughout the semester in PDF format.
+Reference Links: Links to essential resources like the BAIUST official website, faculty Facebook groups, and other academic materials.
+Picture Slider: An interactive slider on the home page displaying key images like class routines, bus schedules, etc.
+Drawer Menu: Provides quick access to key sections like Profile, Academic Calendar, IUMSS, and Logout.
+Profile Page: Displays user details such as username, phone number, and email with the option to update.
+Forgot Password: Allows users to reset their password through email verification.
+Settings: Manage profile updates, security settings (e.g., password change), and more.
+Push Notifications: Real-time notifications for assignments, deadlines, events, and class-specific notices.
+Logout: Easy logout option from the Profile and Drawer menu with a confirmation dialog.
 
 ## Technologies Used
 
