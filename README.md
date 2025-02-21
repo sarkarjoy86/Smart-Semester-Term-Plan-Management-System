@@ -5,21 +5,29 @@
 
 ## Features
 
-Student Registration & Login: Secure login and registration via Firebase Authentication, ensuring students' data is protected.
-Faculty Information: View faculty member details such as name, position, and contact information for easy communication with professors.
-Notices Section: Stay informed about important updates with categorized notices – university-wide and class-specific.
-Course Materials: Access to resources such as Google Drive links, Google Classroom, and WhatsApp groups for each enrolled course.
-Push Notifications: Real-time updates through Firebase Cloud Messaging to ensure students receive timely notifications about important events and deadlines.
-Questions Bank: Access previous year’s exam questions for respective courses, helping students prepare better for exams.
-PDF Books: Download necessary textbooks for courses throughout the semester in PDF format.
-Reference Links: Links to essential resources like the BAIUST official website, faculty Facebook groups, and other academic materials.
-Picture Slider: An interactive slider on the home page displaying key images like class routines, bus schedules, etc.
-Drawer Menu: Provides quick access to key sections like Profile, Academic Calendar, IUMSS, and Logout.
-Profile Page: Displays user details such as username, phone number, and email with the option to update.
-Forgot Password: Allows users to reset their password through email verification.
-Settings: Manage profile updates, security settings (e.g., password change), and more.
-Push Notifications: Real-time notifications for assignments, deadlines, events, and class-specific notices.
-Logout: Easy logout option from the Profile and Drawer menu with a confirmation dialog.
+# Updated Future Development section with the shortened version
+
+readme_smart_semester_final_corrected_content = """
+# Smart Semester - Term Plan Management System
+
+**Smart Semester** is a mobile application developed to address the challenges university students face in accessing and organizing academic information. Designed with ease of use in mind, the app offers students a centralized platform where they can access faculty contact details, university-wide notices, course materials, and more. With real-time notifications and secure login, Smart Semester keeps students connected and informed, ensuring they never miss out on crucial academic updates.
+
+## Features
+
+- **Student Registration & Login**: Secure login and registration via Firebase Authentication, ensuring students' data is protected.
+- **Faculty Information**: View faculty member details such as name, position, and contact information for easy communication with professors.
+- **Notices Section**: Stay informed about important updates with categorized notices – university-wide and class-specific.
+- **Course Materials**: Access to resources such as Google Drive links, Google Classroom, and WhatsApp groups for each enrolled course.
+- **Push Notifications**: Real-time updates through Firebase Cloud Messaging to ensure students receive timely notifications about important events and deadlines.
+- **Questions Bank**: Access previous year’s exam questions for respective courses, helping students prepare better for exams.
+- **PDF Books**: Download necessary textbooks for courses throughout the semester in PDF format.
+- **Reference Links**: Links to essential resources like the BAIUST official website, faculty Facebook groups, and other academic materials.
+- **Picture Slider**: An interactive slider on the home page displaying key images like class routines, bus schedules, etc.
+- **Drawer Menu**: Provides quick access to key sections like Profile, Academic Calendar, IUMSS, and Logout.
+- **Profile Page**: Displays user details such as username, phone number, and email with the option to update.
+- **Forgot Password**: Allows users to reset their password through email verification.
+- **Settings**: Manage profile updates, security settings (e.g., password change), and more.
+- **Logout**: Easy logout option from the Profile and Drawer menu with a confirmation dialog.
 
 ## Technologies Used
 
@@ -61,6 +69,13 @@ Smart Semester uses Firebase Firestore for data storage. The main collections in
 4. **Notices**: Check for university-wide and class-specific notices to stay updated on important deadlines and events.
 5. **Courses**: Access enrolled course details, including resource links such as Google Drive, Google Classroom, and WhatsApp groups.
 6. **Push Notifications**: Receive real-time notifications about new notices, assignments, or any changes.
+7. **Questions Bank**: Review past exam questions for your courses.
+8. **PDF Books**: Download textbooks for the current semester.
+9. **Reference Links**: Access key academic resources and university links.
+10. **Picture Slider**: View important academic images like class routines and bus schedules.
+11. **Drawer Menu**: Navigate quickly to key app sections such as Profile, Academic Calendar, and Settings.
+12. **Settings**: Update profile details and manage security settings.
+13. **Push Notifications**: Receive instant updates for all important academic events.
 
 ## Future Enhancements
 
