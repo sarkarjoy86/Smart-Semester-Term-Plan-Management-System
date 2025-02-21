@@ -1,14 +1,6 @@
 
 # Smart Semester - Term Plan Management System
 
-**Smart Semester** is a mobile application developed to address the challenges university students face in accessing and organizing academic information. Designed with ease of use in mind, the app offers students a centralized platform where they can access faculty contact details, university-wide notices, course materials, and more. With real-time notifications and secure login, Smart Semester keeps students connected and informed, ensuring they never miss out on crucial academic updates.
-
-## Features
-
-# Updated Future Development section with the shortened version
-
-readme_smart_semester_final_corrected_content = """
-# Smart Semester - Term Plan Management System
 
 **Smart Semester** is a mobile application developed to address the challenges university students face in accessing and organizing academic information. Designed with ease of use in mind, the app offers students a centralized platform where they can access faculty contact details, university-wide notices, course materials, and more. With real-time notifications and secure login, Smart Semester keeps students connected and informed, ensuring they never miss out on crucial academic updates.
 
