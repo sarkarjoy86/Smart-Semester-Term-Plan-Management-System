@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1025257559023",
+    "project_id": "smart-semester",
+    "storage_bucket": "smart-semester.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025257559023:android:e5fe67626a25f886d29c1a",
+        "android_client_info": {
+          "package_name": "com.example.smartsemester"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS6iubfAYIdf15fT6e_1b_I78Dh46CUPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
